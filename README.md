@@ -5,7 +5,9 @@
 This repository contains the code, data, and scripts used in the publication:
 
 Assessment of different loss functions for fitting equivalent circuit models to electrochemical impedance spectroscopy data
+
 Authors: Ali Jaberi, Amin Sadeghi, Runze Zhang, Zhaoyang Zhao, Qiuyu Shi, Robert Black, Zoya Sadighi, Jason Hattrick-Simpers 
+
 Journal: [TBD]
 DOI: [TBD]
 
