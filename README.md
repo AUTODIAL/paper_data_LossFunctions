@@ -23,7 +23,7 @@ If you use this code or data, please cite the corresponding paper:
 
 @article{ 
   title   = {Assessment of different loss functions for fitting equivalent circuit models to electrochemical impedance spectroscopy data},
-  author  = {Ali Jaberi, Amin Sadeghi, Runze Zhang, Zhaoyang Zhao, Qiuyu Shi, Robert Black, Zoya Sadighi, Jason Hattrick-Simpers},
+  author  = {Ali Jaberi, et. al.},
   journal = {Computational Materials Science},
   year    = {2026},
   doi     = {TBD}
