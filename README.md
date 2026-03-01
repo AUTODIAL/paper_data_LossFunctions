@@ -8,7 +8,7 @@ Assessment of different loss functions for fitting equivalent circuit models to 
 
 Authors: Ali Jaberi, Amin Sadeghi, Runze Zhang, Zhaoyang Zhao, Qiuyu Shi, Robert Black, Zoya Sadighi, Jason Hattrick-Simpers 
 
-Journal: [TBD]
+Journal: Computational Materials Science
 DOI: [TBD]
 
 The goal of this repository is to ensure full reproducibility of the results reported in the paper, including model fitting, evaluation, and figure generation.
@@ -21,13 +21,15 @@ All datasets used in this study are Generated synthetically which can be found i
 
 If you use this code or data, please cite the corresponding paper:
 
-@article{
+@article{ 
   title   = {Assessment of different loss functions for fitting equivalent circuit models to electrochemical impedance spectroscopy data},
-  author  = {Jaberi, Ali and Others},
-  journal = {TBD},
+  author  = {Ali Jaberi, Amin Sadeghi, Runze Zhang, Zhaoyang Zhao, Qiuyu Shi, Robert Black, Zoya Sadighi, Jason Hattrick-Simpers},
+  journal = {Computational Materials Science},
   year    = {2026},
   doi     = {TBD}
 }
+
+![Comparison of log-B and X2 loss functions on synthetic EIS data](radar_chart.png)
 
 ## Structure
 The source codes used to fit the ECMs to the EIS are located at src/ dirctory.
